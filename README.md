@@ -23,7 +23,7 @@ Excessivo, cada cabeça cortada nascerão duas novas: cabe no sprint mas precisa
 Undead são seres misticos normalmente não visiveis, eles representam na sua maior parte sensações que a equipe tem pelo futuro vindouro da implementação em questão
 
 ### [?M] Fantasma
-Se trata de um card vazio de conteúdo, somente com estimativa: quando é uma equipe iniciante em estimar; quando se há um conjunto de atividades estimadas, mas com incerteza; quando se deseja incrementar um tempo extra para ter certeza da qualidade do funcionamento técnico do software ou dar um tapa a mais na aparência; quando há a sensação de que foi esquecido algo na análise: (9 horas, 3 pontos)
+Se trata de um card vazio de conteúdo, somente com estimativa: quando é uma equipe iniciante em estimar; quando se há um conjunto de atividades estimadas, mas com incerteza; quando há uma integração da qual não se há noção completa dos problemas que poderão vir a acontecer; quando se deseja incrementar um tempo extra para ter certeza da qualidade do funcionamento técnico do software ou dar um tapa a mais na aparência; quando há a sensação de que foi esquecido algo na análise: (9 horas, 3 pontos)
 
 ### [?G] Poltergeist
 Representa o mesmo sentimento que o fantasma, mas este caso é claro a falta de uma análise ou algo do tipo e, portanto, uma quantidade de tempo a mais se faz necessária. O Poltergeist pode ser dividido em dois fantasmas se preferirem. O Poltergeist é um desafio em potencial, alguns não acreditam em sua existência, pode ser que ele realmente não exista e tenha sido só o vento, pode ser que o tempo representado por este tenha sido absorvido por outras atividades mal estimadas, portanto a derrota de um poltergeist NÃO DEVE ser aplaudida: (16 horas, 5 pontos)
