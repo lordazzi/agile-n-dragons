@@ -8,13 +8,13 @@ O objetivo do Agile & Dragons é complementar a metodologia usada no seu dia a d
 ## Beasts
 
 ### [P] Lobo
-Menos de um dia de peleja, para montar a estimativa: (5 horas, 1 ponto)
+Menos de um dia de peleja, para montar a estimativa: (3 ~ 5 horas, 1 ponto)
 
 ### [M] Chimera
-Um dia de peleja, para montar a estimativa: (9 horas, 3 pontos)
+Um dia de peleja, para montar a estimativa: (6 ~ 9 horas, 3 pontos)
 
 ### [G] Dragão
-Mais de um dia de peleja, para montar a estimativa: (16 horas, 5 pontos)
+Mais de um dia de peleja, para montar a estimativa: (13 ~ 16 horas, 5 pontos)
 
 ### [GX] Hidra
 Excessivo, cada cabeça cortada nascerão duas novas: cabe no sprint mas precisa ser dividido em atividades menores, não é estimavel, mas podemos dividir agora
