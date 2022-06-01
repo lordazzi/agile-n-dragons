@@ -35,24 +35,8 @@ Diferente dos fantasmas, este é visível e sua presença é bem clara.
 ### Regra 1.
 Sempre que um DRAGON for eliminado o DRAGON SLAYER deve ser aplaudido
 
-### Conselho 1.
-Dois dias gera uma boa fluídez no movimento das
-
-### Conselho 2.
-Rabiscar protótipos de tela durante as reunião de analise de negócio
-
-### Conselho 3.
-O coletivo de Atividades se chama MVP
-
-### Conselho 4.
+### Conselho
 Identifique colaboradores otimistas e aumente bem o tempo estimado por eles
-
-Se houver conflito entre na hora de estimativa da atividade é interessante que seja registrado o porquê do peso escolhido para esta.
-Tipificação de atividades, por exemplo:
-[componente] - subentende-se que que uma atividade de componente terá a escrita de seu código html, scss e de um serviço exclusivo deste onde conterá as lógicas relacionadas;
-[consulta-api] - subentende-se a criação dos modelos/interfaces de entrada e saída, se necessários, a consulta via api e a validação e transformação dos dados
 
 ## TODOS
 [ ] Criar cartas de planning poker com os desenhos
-[ ] Criar page que calcula a quantidade de horas baseada na quantidades de bestas
-[ ] Criar page que gera nomes para sprints
