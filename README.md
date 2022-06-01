@@ -1,10 +1,5 @@
 # Agile & Dragons
 
-Agile & Dragons [pseudo metodologia]
-
-Agile & Dragons é uma pseudo metodologia ou plugin processual, isto é, se trata de um conjunto de processos mas não de um framework de metodologia completo, como é o caso do Scrum. Se em seu ambiente de trabalho o Scrum é aplicado, então estes processos complementares provavelmente só irão atrapalhas.
-O objetivo do Agile & Dragons é complementar a metodologia usada no seu dia a dia, em prol de gerar estimativas, fumentar a criatividade dos recursos envolvidos além da qualidade de vida dos mesmos. Sendo este plugin processual um conjunto de conselhos de como conquistar uma boa estimativa e, com a fragmentação de um grande serviço em partes menores, auxiliar a analise técnica.
-
 ## Beasts
 
 ### [P] Lobo
